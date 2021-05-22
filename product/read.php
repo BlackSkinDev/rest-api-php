@@ -20,13 +20,6 @@ $num= $stmt->rowCount();
 
 $products_array=array();
 $products_array['data']=array();
-// $products_array['company_details']=array();
-// $company_details=array(
-//     "status"=>"verified",
-//     "name"=>"Amazon Incoporation",
-//     "ranking"=>"1st"
-// );
-// array_push($products_array['company_details'],$company_details);
 
 
 //check if more than 0 record is Found
